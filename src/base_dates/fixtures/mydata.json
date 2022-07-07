@@ -1,0 +1,32 @@
+[
+ {
+   "model": "base_dates.country",
+   "id": 1,
+   "fields":{"name": "Brasil",
+   "code": "BR",
+   "address_format": "%(street)s",
+   "phone_code": 55,
+   "cep_required": true
+   }
+ },
+ {
+   "model": "base_dates.country",
+   "id":2,
+   "fields":{"name": "Andorra",
+   "code": "AD",
+   "address_format": "%(street)s",
+   "phone_code": 376,
+   "cep_required": true
+   }
+ },
+ {
+   "model": "base_dates.country",
+   "id":3,
+   "fields":{"name": "Australia",
+   "code": "AU",
+   "address_format": "%(street)s",
+   "phone_code": 21,
+   "cep_required": true
+   }
+ }
+]
